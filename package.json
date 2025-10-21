@@ -1,0 +1,11 @@
+{
+  "name": "duelist-tracker",
+  "version": "1.0.0",
+  "description": "Advanced Duelist Tracker for card game statistics",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["tracker", "cardgame", "statistics"],
+  "author": "Your Name",
+  "license": "MIT"
+}
