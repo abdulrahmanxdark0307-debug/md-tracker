@@ -1,11 +1,16 @@
 {
-  "name": "duelist-tracker-advanced",
+  "name": "duelist-tracker",
   "version": "1.0.0",
-  "description": "Advanced card game statistics tracker",
+  "type": "module",
   "scripts": {
-    "build": "echo 'No build step required'"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": ["tracker", "cardgame", "statistics"],
-  "author": "Your Name",
-  "license": "MIT"
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  }
 }
