@@ -1,9 +1,9 @@
 {
-  "name": "duelist-tracker",
+  "name": "duelist-tracker-advanced",
   "version": "1.0.0",
-  "description": "Advanced Duelist Tracker for card game statistics",
+  "description": "Advanced card game statistics tracker",
   "scripts": {
-    "build": "echo 'No build step required for static site'"
+    "build": "echo 'No build step required'"
   },
   "keywords": ["tracker", "cardgame", "statistics"],
   "author": "Your Name",
