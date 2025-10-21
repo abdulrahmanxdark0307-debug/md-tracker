@@ -1,16 +1,12 @@
 {
-  "name": "duelist-tracker",
+  "name": "duelist-tracker-advanced",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "echo 'No build step required'",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.38.0"
-  },
-  "devDependencies": {
-    "vite": "^4.4.0"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
